@@ -1,4 +1,19 @@
-# 🔢 #100Devs Push Project001: Calculator
+# 100hr-project-calculator
+
+These 100 hour projects are part of the freelance work as Full Stack Software Engineer for [100Devs Agency](https://www.linkedin.com/company/100devs/)
+
+Check out this ongoing subscriptin page project [here](https://agcdtmr.github.io/100hr-project-calculator/)
+
+## Learnings:
+- The use of different classes to divide the tasks
+- The use of cursor: pointer
+- The use of filter and transition
+- The use of document.querySelector
+- How to delegate the functions
+- The use of .textContent
+
+Curious about my other repos? See [here](https://github.com/agcdtmr?tab=repositories)
+
 
 ### Goal: Build a Simple Calculator using JS OOP best practices
 
