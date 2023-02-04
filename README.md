@@ -12,6 +12,12 @@ Check out this ongoing calculator project [here](https://agcdtmr.github.io/100hr
 - How to delegate the functions
 - The use of .textContent
 
+```
+- I completed the challenge: 5
+- I feel good about my code: 3
+- Though I've looked on someone from Youtube, see my learnings above
+```
+
 Curious about my other repos? See [here](https://github.com/agcdtmr?tab=repositories)
 
 
